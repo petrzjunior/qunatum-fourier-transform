@@ -1,6 +1,6 @@
 # Quantum Fourier Transform explained
 
-Source code for the YouTube video [Quantum Fourier Transform explained](https://youtu.be/BaQNIcw1hn4).
+Source code for the YouTube video [Quantum Fourier Transform explained](https://youtu.be/_sefbQynDTI).
 
 [![Thumbnail](thumbnail.png)](https://youtu.be/_sefbQynDTI)
 
